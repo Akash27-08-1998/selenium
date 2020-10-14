@@ -1,0 +1,7 @@
+com\utilities\screenshot.class
+com\utilities\getData.class
+com\page\landingPage.class
+com\page\homePage.class
+com\base\browser.class
+com\utilities\pom.class
+com\utilities\reading.class

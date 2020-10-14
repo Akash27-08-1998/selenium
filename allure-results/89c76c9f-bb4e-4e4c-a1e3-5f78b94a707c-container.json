@@ -1,0 +1,1 @@
+{"uuid":"89c76c9f-bb4e-4e4c-a1e3-5f78b94a707c","name":"com.test.smoke.flush","children":["5d4668b6-4c3b-4ded-aa17-b75f2f74b84c"],"description":"","befores":[],"afters":[{"name":"flush","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1602674565890,"stop":1602674565902}],"links":[],"start":1602674565890,"stop":1602674565902}
